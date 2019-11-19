@@ -1,0 +1,18 @@
+// Expression
+frm-[0-9]{6}
+// intent statements
+1	Looking for frm-123456
+2	Where is the account opening form frm-234591?
+3	frm-345623, where is this form
+4	Is it possible form you to mail me frm-345794
+5	Do I need frm-234695 to apply for an account trnasfer?
+6	Does your manager know how to apply for a loan using frm-234091
+7	Where can I send frm-234918? Do I get an email response it was received?
+8	frm-234555
+9	When was frm-234987 changed?
+10	Do I use form frm-876345 to apply for Home loan
+11	Was a new version of frm-765234 submitted for my open req?
+12	Do I use frm-234234 for international enable account?
+13	frm-234598 has several spelling mistake
+14	will frm-234567 be edited for new account features
+15	frm-123456, frm-123123, frm-234567
